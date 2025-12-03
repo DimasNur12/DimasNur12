@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist & Full Stack Developer yang berfokus pada pembangunan solusi data dan aplikasi end-to-end. Saya menjembatani analisis data mendalam dengan implementasi teknologi yang user-friendly untuk mendorong efisiensi bisnis.<br><br>Keahlian Utama:<br><br>-Data & Analisis: Analisis, manipulasi data (Pandas), visualisasi (Matplotlib), dan reporting yang actionable.<br><br>-Development & Solusi: Pengembangan backend yang kuat menggunakan Laravel dan integrasi sistem.<br><br>-Desain Produk: Pemahaman UI/UX dan Figma untuk memastikan aplikasi/dashboard yang user-friendly
+Data Scientist/Analyts & Full Stack Developer yang berfokus pada pembangunan solusi data dan aplikasi end-to-end. Saya menjembatani analisis data mendalam dengan implementasi teknologi yang user-friendly untuk mendorong efisiensi bisnis.<br><br>Keahlian Utama:<br><br>-Data & Analisis: Analisis, manipulasi data (Pandas), visualisasi (Matplotlib), Power Bi dan reporting yang actionable.<br><br>-Development & Solusi: Pengembangan backend yang kuat menggunakan Laravel dan integrasi sistem.<br><br>-Desain Produk: Pemahaman UI/UX dan Figma untuk memastikan aplikasi/dashboard yang user-friendly
 
 
 ## 🌐 Socials:
